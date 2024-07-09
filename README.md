@@ -48,6 +48,6 @@ If you own another device that can play Fall Guys, feel free to install and play
 
 <h3 id="tetris">Setting Up tetri.io</h3>
 
-Nothing much to set up here. Just go to [tetr.io](tetr.io) and learn the controls of the game. It's all on browser. We will be playing Battle Royale mode. I highly recommend changing the sound settings to make it easier to listen to others via Discord. 
+Nothing much to set up here. Just go to [tetr.io](https://tetr.io/) and learn the controls of the game. It's all on browser. We will be playing Battle Royale mode. I highly recommend changing the sound settings to make it easier to listen to others via Discord. 
 
 **Again, once you have installed all of the necessary software, please like the post in the Discord. To the best Bogger goes the spoils.**
